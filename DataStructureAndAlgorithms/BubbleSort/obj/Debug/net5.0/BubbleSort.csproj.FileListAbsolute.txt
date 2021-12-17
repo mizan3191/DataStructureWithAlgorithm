@@ -1,0 +1,16 @@
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\bin\Debug\net5.0\BubbleSort.exe
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\bin\Debug\net5.0\BubbleSort.deps.json
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.json
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.dev.json
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\bin\Debug\net5.0\BubbleSort.dll
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\bin\Debug\net5.0\ref\BubbleSort.dll
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\bin\Debug\net5.0\BubbleSort.pdb
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.AssemblyReference.cache
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfoInputs.cache
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfo.cs
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.CoreCompileInputs.cache
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.dll
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\obj\Debug\net5.0\ref\BubbleSort.dll
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.pdb
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BubbleSort\obj\Debug\net5.0\BubbleSort.genruntimeconfig.cache
