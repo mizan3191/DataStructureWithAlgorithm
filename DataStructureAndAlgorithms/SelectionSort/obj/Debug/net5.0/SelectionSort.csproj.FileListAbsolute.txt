@@ -1,0 +1,16 @@
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\bin\Debug\net5.0\SelectionSort.exe
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\bin\Debug\net5.0\SelectionSort.deps.json
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\bin\Debug\net5.0\SelectionSort.runtimeconfig.json
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\bin\Debug\net5.0\SelectionSort.runtimeconfig.dev.json
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\bin\Debug\net5.0\SelectionSort.dll
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\bin\Debug\net5.0\ref\SelectionSort.dll
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\bin\Debug\net5.0\SelectionSort.pdb
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\obj\Debug\net5.0\SelectionSort.csproj.AssemblyReference.cache
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\obj\Debug\net5.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\obj\Debug\net5.0\SelectionSort.AssemblyInfoInputs.cache
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\obj\Debug\net5.0\SelectionSort.AssemblyInfo.cs
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\obj\Debug\net5.0\SelectionSort.csproj.CoreCompileInputs.cache
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\obj\Debug\net5.0\SelectionSort.dll
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\obj\Debug\net5.0\ref\SelectionSort.dll
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\obj\Debug\net5.0\SelectionSort.pdb
+E:\DataStructure\DataStructureWithAlgorithm\DataStructureAndAlgorithms\SelectionSort\obj\Debug\net5.0\SelectionSort.genruntimeconfig.cache
