@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DataStructure\\DataStructureWithAlgorithm\\DataStructureAndAlgorithms\\BinarySearch\\BinarySearch.csproj": {}
+    "D:\\ProblemSolving\\DataStructureWithAlgorithm\\DataStructureAndAlgorithms\\BinarySearch\\BinarySearch.csproj": {}
   },
   "projects": {
-    "E:\\DataStructure\\DataStructureWithAlgorithm\\DataStructureAndAlgorithms\\BinarySearch\\BinarySearch.csproj": {
+    "D:\\ProblemSolving\\DataStructureWithAlgorithm\\DataStructureAndAlgorithms\\BinarySearch\\BinarySearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DataStructure\\DataStructureWithAlgorithm\\DataStructureAndAlgorithms\\BinarySearch\\BinarySearch.csproj",
+        "projectUniqueName": "D:\\ProblemSolving\\DataStructureWithAlgorithm\\DataStructureAndAlgorithms\\BinarySearch\\BinarySearch.csproj",
         "projectName": "BinarySearch",
-        "projectPath": "E:\\DataStructure\\DataStructureWithAlgorithm\\DataStructureAndAlgorithms\\BinarySearch\\BinarySearch.csproj",
-        "packagesPath": "C:\\Users\\mizan\\.nuget\\packages\\",
-        "outputPath": "E:\\DataStructure\\DataStructureWithAlgorithm\\DataStructureAndAlgorithms\\BinarySearch\\obj\\",
+        "projectPath": "D:\\ProblemSolving\\DataStructureWithAlgorithm\\DataStructureAndAlgorithms\\BinarySearch\\BinarySearch.csproj",
+        "packagesPath": "C:\\Users\\MR. Rassel\\.nuget\\packages\\",
+        "outputPath": "D:\\ProblemSolving\\DataStructureWithAlgorithm\\DataStructureAndAlgorithms\\BinarySearch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mizan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MR. Rassel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

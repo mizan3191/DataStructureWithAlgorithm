@@ -1,0 +1,16 @@
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\bin\Debug\net5.0\BuzzersGame.exe
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\bin\Debug\net5.0\BuzzersGame.deps.json
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\bin\Debug\net5.0\BuzzersGame.runtimeconfig.json
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\bin\Debug\net5.0\BuzzersGame.runtimeconfig.dev.json
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\bin\Debug\net5.0\BuzzersGame.dll
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\bin\Debug\net5.0\BuzzersGame.pdb
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\obj\Debug\net5.0\BuzzersGame.csproj.AssemblyReference.cache
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\obj\Debug\net5.0\BuzzersGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\obj\Debug\net5.0\BuzzersGame.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\obj\Debug\net5.0\BuzzersGame.AssemblyInfo.cs
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\obj\Debug\net5.0\BuzzersGame.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\obj\Debug\net5.0\BuzzersGame.dll
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\obj\Debug\net5.0\refint\BuzzersGame.dll
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\obj\Debug\net5.0\BuzzersGame.pdb
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\obj\Debug\net5.0\BuzzersGame.genruntimeconfig.cache
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\BuzzersGame\obj\Debug\net5.0\ref\BuzzersGame.dll
