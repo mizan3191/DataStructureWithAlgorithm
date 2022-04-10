@@ -1,0 +1,16 @@
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\bin\Debug\net5.0\InsertionSortWith.exe
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\bin\Debug\net5.0\InsertionSortWith.deps.json
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\bin\Debug\net5.0\InsertionSortWith.runtimeconfig.json
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\bin\Debug\net5.0\InsertionSortWith.runtimeconfig.dev.json
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\bin\Debug\net5.0\InsertionSortWith.dll
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\bin\Debug\net5.0\InsertionSortWith.pdb
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\obj\Debug\net5.0\InsertionSortWith.csproj.AssemblyReference.cache
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\obj\Debug\net5.0\InsertionSortWith.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\obj\Debug\net5.0\InsertionSortWith.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\obj\Debug\net5.0\InsertionSortWith.AssemblyInfo.cs
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\obj\Debug\net5.0\InsertionSortWith.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\obj\Debug\net5.0\InsertionSortWith.dll
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\obj\Debug\net5.0\refint\InsertionSortWith.dll
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\obj\Debug\net5.0\InsertionSortWith.pdb
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\obj\Debug\net5.0\InsertionSortWith.genruntimeconfig.cache
+D:\ProblemSolving\DataStructureWithAlgorithm\DataStructureAndAlgorithms\InsertionSortWith\obj\Debug\net5.0\ref\InsertionSortWith.dll
